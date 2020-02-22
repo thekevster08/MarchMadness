@@ -1,5 +1,6 @@
 name: march_madness
 channels:
+    - conda-forge
 dependencies:
-    -numpy
-    -matplotlib
+    - numpy
+    - matplotlib
