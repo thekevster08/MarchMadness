@@ -1,0 +1,5 @@
+name: march_madness
+channels:
+dependencies:
+    -numpy
+    -matplotlib
