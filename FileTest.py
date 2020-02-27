@@ -1,11 +1,13 @@
 import os
 #import pkg_resources
-
-from binarytree import Node
+from binaryTree import Node
+#from binarytree import Node
 # import matplotlib.pyplot as plt # for notebook usage
 # import numpy as np # for notebook usage
 import pandas as pd
-from PIL import Image, ImageDraw
+#from pillow import Image, ImageDraw
+
+import PIL
 
 cwd = os.getcwd()
 
