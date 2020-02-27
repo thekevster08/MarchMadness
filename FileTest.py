@@ -7,7 +7,7 @@ from binaryTree import Node
 import pandas as pd
 #from pillow import Image, ImageDraw
 
-import PIL
+from PIL import Image, ImageDraw
 
 cwd = os.getcwd()
 
