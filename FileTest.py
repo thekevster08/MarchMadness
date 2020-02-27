@@ -1,5 +1,5 @@
 import os
-import pkg_resources
+#import pkg_resources
 
 from binarytree import Node
 # import matplotlib.pyplot as plt # for notebook usage
