@@ -8,4 +8,4 @@ dependencies:
     - pillow
     - seaborn
     - statsmodels
-    - sklearn
+    - scikit-learn
